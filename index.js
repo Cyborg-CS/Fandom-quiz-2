@@ -63,8 +63,8 @@ questionList = [
     question: "8.What was the third game for the players of Squid Game ? \nA: Marbel Game \nB: Pass the glass bridge \nC: Squid Game \nD: Tug of war \nYour Answer: ",
     answer: "D"
   },{
-    question: "9.Where 'Any Where' key was found in the series of Locke & Key ? \nA: In the Benjamin Locke's potrait \nB: Underneath a bench of Matheson Academy \nC: From Kinsey's bracelet \nD: Inside Erin's mind \nYour Answer: ",
-    answer: "C"
+    question: "9.Where 'Any Where' key was found in the series of Locke & Key ? \nA: In the Chamberlin Locke's potrait \nB: Underneath a bench of Matheson Academy \nC: From Kinsey's bracelet \nD: Inside Erin's mind \nYour Answer: ",
+    answer: "A"
   },{
     question: "10.In which year Netflix was founded ? \nA: 1993 \nB: 1997 \nC: 1996 \nD: 1995 \nYour Answer: ",
     answer: "B"
